@@ -12,3 +12,4 @@ Ashley Smith - asmith45@sccsc.edu
 Katherine Vykhovanets - kvykhovanets26@sccsc.edu
 Caleb Thompson - cthompson80@sccsc.edu
 Kara Crumpton - karancrumpton@gmail.com
+Aditya Patel - acpatel63@sccsc.edu
