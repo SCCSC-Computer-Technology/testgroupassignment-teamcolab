@@ -6,3 +6,4 @@ This repository will serve as a demonstration on how to collab with GitHub for t
 
 Brandon Hines bdhines49@sccsc.edu
 Thomas Speich - Tespeich03@sccsc.edu
+Adam Quinn - alquinn56@sccsc.edu
