@@ -9,3 +9,4 @@ Thomas Speich - Tespeich03@sccsc.edu
 Adam Quinn - alquinn56@sccsc.edu
 Michael Lee - mglee86@sccsc.edu
 Ashley Smith - asmith45@sccsc.edu
+Katherine Vykhovanets - kvykhovanets26@sccsc.edu
