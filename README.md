@@ -3,3 +3,4 @@ testgroupassignment-teamcolab created by GitHub Classroom
 
 
 This repository will serve as a demonstration on how to collab with GitHub for this class ~ Mr. T
+Caleb Thompson cthompsonsccsc.edu
