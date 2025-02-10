@@ -11,3 +11,4 @@ Michael Lee - mglee86@sccsc.edu
 Ashley Smith - asmith45@sccsc.edu
 Katherine Vykhovanets - kvykhovanets26@sccsc.edu
 Caleb Thompson - cthompson80@sccsc.edu
+Kara Crumpton - karancrumpton@gmail.com
